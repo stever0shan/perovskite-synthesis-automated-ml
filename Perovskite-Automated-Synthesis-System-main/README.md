@@ -1,2 +1,0 @@
-# Perovskite-Automated-Synthesis-System
- 
